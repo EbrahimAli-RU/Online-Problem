@@ -1,1 +1,4 @@
-Hi
+VARIOUS JUDGE SOLVED PROBLEM:
+1.Lightoj
+2.Codeforces
+3.UVA
