@@ -31,7 +31,7 @@ int main()
        if(abs(boys[i]-girls[j])<=1){
             Count++;
 
-        cout<<boys[i]<<" "<<girls[j]<<endl;
+        //cout<<boys[i]<<" "<<girls[j]<<endl;
         i++;j++;
        }
        else
